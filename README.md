@@ -7,23 +7,11 @@
 
 str: seamlessly work with Strings in Go 🚤
 
-<p>
-    <a href="https://github.com/felix-kaestner/str/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/felix-kaestner/str?color=29b6f6&style=flat-square">
-    </a>
-    <a href="https://github.com/felix-kaestner/str/blob/main/LICENSE">
-        <img alt="License" src="https://img.shields.io/github/license/felix-kaestner/str?color=29b6f6&style=flat-square">
-    </a>
-    <a href="https://pkg.go.dev/github.com/felix-kaestner/str">
-        <img alt="Go Documentation" src="https://img.shields.io/badge/go-documentation-blue?color=29b6f6&style=flat-square">
-    </a>
-    <a href="https://goreportcard.com/report/github.com/felix-kaestner/str">
-        <img alt="Go Report" src="https://goreportcard.com/badge/github.com/felix-kaestner/str?style=flat-square">
-    </a>
-    <!-- <a href="https://codecov.io/gh/felix-kaestner/str">
-        <img src="https://img.shields.io/codecov/c/github/felix-kaestner/str?style=flat-square&token=KK7ZG7A90X"/>
-    </a> -->
-</p>
+[![Issues](https://img.shields.io/github/issues/felix-kaestner/str?color=29b6f6&style=flat-square)](https://github.com/felix-kaestner/str/issues)
+[![License](https://img.shields.io/github/license/felix-kaestner/str?color=29b6f6&style=flat-square)](https://github.com/felix-kaestner/str/blob/main/LICENSE)
+[![Go Documentation](https://img.shields.io/badge/go-documentation-blue?color=29b6f6&style=flat-square)](https://pkg.go.dev/github.com/felix-kaestner/str)
+[![Go Report](https://goreportcard.com/badge/github.com/felix-kaestner/str?style=flat-square)](https://goreportcard.com/report/github.com/felix-kaestner/str)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/felix-kaestner/str/pulls)
 
 ## Quickstart
 
