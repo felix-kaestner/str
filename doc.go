@@ -14,5 +14,6 @@
 // allowing direct access to the underlying data.
 //
 // # Disclaimer
+//
 // Only use these functions if you fully understand the implications of them.
 package str
