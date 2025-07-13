@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2025 Felix Kästner
+// SPDX-License-Identifier: Apache-2.0
+
 package str
 
 import "unsafe"

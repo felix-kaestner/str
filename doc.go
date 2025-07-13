@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2025 Felix Kästner
+// SPDX-License-Identifier: Apache-2.0
+
 // Package str provides unsafe, zero-allocation conversions between Go's
 // string and []byte types. It is designed for use in performance-sensitive
 // situations where minimizing memory allocations is essential.

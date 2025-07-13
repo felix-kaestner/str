@@ -1,3 +1,8 @@
+<!--
+# SPDX-FileCopyrightText: 2025 Felix Kästner
+# SPDX-License-Identifier: Apache-2.0
+-->
+
 # str
 
 str: seamlessly work with Strings in Go 🚤
